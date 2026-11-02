@@ -44,7 +44,7 @@ author:
 # Archive Settings
 tag_archive:
   type: liquid
-  path: /tag/
+  path: /tags/
 category_archive:
   type: liquid
-  path: /category/
+  path: /categories/
