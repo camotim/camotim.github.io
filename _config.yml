@@ -31,7 +31,7 @@ search_provider: lunr
 
 author:
   name   : "Camotim"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "A Science Researcher"
   location: "India"
   links:
