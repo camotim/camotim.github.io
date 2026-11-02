@@ -40,3 +40,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/camotim"
+
+# Archive Settings
+tag_archive:
+  type: liquid
+  path: /tag/
+category_archive:
+  type: liquid
+  path: /category/
