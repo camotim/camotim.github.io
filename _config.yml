@@ -9,7 +9,7 @@ plugins:
   - jekyll-feed
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Fetches the theme directly
-minimal_mistakes_skin: "dark"                  # Change to air, dark, aqua, etc.
+minimal_mistakes_skin: "neon"                  # Change to air, dark, aqua, etc.
 
 # Site Defaults
 defaults:
