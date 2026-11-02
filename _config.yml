@@ -9,7 +9,7 @@ plugins:
   - jekyll-feed
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Fetches the theme directly
-minimal_mistakes_skin: "default"                  # Change to air, dark, aqua, etc.
+minimal_mistakes_skin: "dark"                  # Change to air, dark, aqua, etc.
 
 # Site Defaults
 defaults:
@@ -28,3 +28,13 @@ defaults:
 # Search Settings
 search: true
 search_provider: lunr
+
+author:
+  name   : "Camotim"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "A Science Researcher"
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/camotim"
