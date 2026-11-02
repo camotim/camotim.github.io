@@ -1,0 +1,25 @@
+title: "Camotim"
+url: "https://camotim.github.io" # Change to your GitHub username
+baseurl: ""             # CRUCIAL: Put your exact repository name here (e.g., /my-project)
+
+# Theme Configuration
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" # Fetches the theme directly
+minimal_mistakes_skin: "default"                  # Change to air, dark, aqua, etc.
+
+# Site Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
