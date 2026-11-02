@@ -19,6 +19,8 @@ defaults:
     values:
       layout: "single"
       author_profile: true
+      show_date: true
+      entries_layout: grid
   - scope:
       path: ""
       type: "pages"
